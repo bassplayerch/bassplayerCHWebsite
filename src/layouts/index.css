@@ -5,7 +5,7 @@ html {
 }
 body {
   margin: 0;
-  background: url('http://bassplayer.ch/wp-content/uploads/2016/01/a1banner4_bw.jpg') no-repeat center center;
+  background: url('https://res.cloudinary.com/bassplayerch/image/upload/c_scale,f_auto,q_67,w_2464/v1523540802/bassplayerch_background.jpg') no-repeat center center;
   background-size: cover;
   height: 100vh;
 }
