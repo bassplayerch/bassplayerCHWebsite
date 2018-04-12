@@ -5,6 +5,9 @@ html {
 }
 body {
   margin: 0;
+  background: url('http://bassplayer.ch/wp-content/uploads/2016/01/a1banner4_bw.jpg') no-repeat center center;
+  background-size: cover;
+  height: 100vh;
 }
 article,
 aside,
